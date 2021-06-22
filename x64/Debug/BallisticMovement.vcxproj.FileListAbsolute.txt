@@ -1,0 +1,12 @@
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.vcxprojAssemblyReference.cache
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.Avtorizazia.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.MyForm.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.vcxproj.GenerateResource.cache
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.exe
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\BallisticMovement\x64\Debug\BallisticMovement.pdb
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.vcxprojAssemblyReference.cache
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.Avtorizazia.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.MyForm.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.vcxproj.GenerateResource.cache
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.exe
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Debug\BallisticMovement.pdb

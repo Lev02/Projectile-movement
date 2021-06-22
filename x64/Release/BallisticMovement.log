@@ -1,0 +1,4 @@
+﻿  Avtorizazia.cpp
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\MyForm.h(1198,12): warning C4129: : неизвестная escape-последовательность
+  Avtorizazia.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  BallisticMovement.vcxproj -> D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.exe

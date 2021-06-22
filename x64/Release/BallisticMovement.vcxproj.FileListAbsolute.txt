@@ -1,0 +1,5 @@
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.Avtorizazia.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.MyForm.resources
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.vcxproj.GenerateResource.cache
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.exe
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\Ballistic Movement\x64\Release\BallisticMovement.vcxprojAssemblyReference.cache
